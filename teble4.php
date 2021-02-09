@@ -57,7 +57,7 @@
   <?php
     }
     } else {
-      echo "0 results0000";
+      echo "0 results00000";
     }
     $conn->close();
  ?>
